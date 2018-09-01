@@ -1,0 +1,5 @@
+applications:
+- name: cienciagente
+  command: npm start
+  memory: 256M
+  instances: 1
